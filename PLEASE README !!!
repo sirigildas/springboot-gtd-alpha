@@ -1,0 +1,4 @@
+java -jar <jar file name> & 
+pid 
+kill <pid>
+Or Stop your EC2 Instance.
